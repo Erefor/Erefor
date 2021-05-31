@@ -1,5 +1,5 @@
 # Hi!
-## Im José a Flutter and Vue.js Developer
+## Im José a **_Flutter_ and _Vue.js_** Developer
 
 <!--
 **Erefor/Erefor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
