@@ -1,7 +1,7 @@
 # Hi!
 ## Im José a **_Flutter_ and _Vue.js_** Developer
 
-I currently work as a front-end developer at [Puller](https://www.linkedin.com/company/pullerdev/about/). At the same time I am studying Software engineering.
+I currently work as a front-end developer. At the same time I am studying Software engineering.
 
 <!--
 **Erefor/Erefor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
